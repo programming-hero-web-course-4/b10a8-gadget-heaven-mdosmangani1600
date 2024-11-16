@@ -1,0 +1,28 @@
+[
+    {
+      "category_id": 1,
+      "category": "Computers",
+      "description": "Explore a variety of laptops, desktops, and accessories for all your computing needs."
+    },
+    {
+      "category_id": 2,
+      "category": "Phones",
+      "description": "Find the latest smartphones and accessories to keep you connected on the go."
+    },
+    {
+      "category_id": 3,
+      "category": "Smart Watches",
+      "description": "Discover smartwatches that combine functionality and style, from fitness tracking to notifications."
+    },
+    {
+      "category_id": 4,
+      "category": "Chargers",
+      "description": "Choose from a selection of chargers for all devices, ensuring you stay powered up anywhere."
+    },
+    {
+      "category_id": 5,
+      "category": "Power Banks",
+      "description": "Stay connected on the move with high-capacity power banks for your mobile devices."
+    }
+  ]
+  

@@ -1,0 +1,167 @@
+[
+  {
+    "product_id": "comp_1",
+    "product_title": "Laptop X1",
+    "product_image": "https://i.ibb.co.com/18j9cbH/1-SFy-P7r-A3-Kx-Jbr1-Yk-Z3als-A.jpg",
+    "category": "Computers",
+    "price": 850,
+    "description": "High-performance laptop for work and entertainment.",
+    "specification": ["16GB RAM", "512GB SSD", "Intel i7"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "comp_2",
+    "product_title": "Desktop Pro",
+    "product_image": "https://i.ibb.co.com/18j9cbH/1-SFy-P7r-A3-Kx-Jbr1-Yk-Z3als-A.jpg",
+    "category": "Computers",
+    "price": 1200,
+    "description": "Powerful desktop computer for high-end applications.",
+    "specification": ["32GB RAM", "1TB SSD", "AMD Ryzen 9"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "comp_3",
+    "product_title": "Laptop Lite",
+    "product_image": "https://i.ibb.co.com/18j9cbH/1-SFy-P7r-A3-Kx-Jbr1-Yk-Z3als-A.jpg",
+    "category": "Computers",
+    "price": 650,
+    "description": "Lightweight laptop perfect for everyday tasks.",
+    "specification": ["8GB RAM", "256GB SSD", "Intel i5"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "comp_4",
+    "product_title": "Gaming Laptop Z",
+    "product_image": "https://i.ibb.co.com/5kZv7Qf/laptop.jpg",
+    "category": "Computers",
+    "price": 1500,
+    "description": "High-end gaming laptop with superior graphics.",
+    "specification": ["16GB RAM", "1TB SSD", "NVIDIA RTX 3080"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "comp_5",
+    "product_title": "All-in-One PC",
+    "product_image": "https://i.ibb.co.com/5kZv7Qf/laptop.jpg",
+    "category": "Computers",
+    "price": 900,
+    "description": "Space-saving all-in-one PC with powerful features.",
+    "specification": ["16GB RAM", "512GB SSD", "Intel i7"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "comp_6",
+    "product_title": "Portable Mini PC",
+    "product_image": "https://i.ibb.co.com/5kZv7Qf/laptop.jpg",
+    "category": "Computers",
+    "price": 550,
+    "description": "Compact mini PC suitable for light computing tasks.",
+    "specification": ["4GB RAM", "128GB SSD", "Intel Celeron"],
+    "availability": true,
+    "rating": 3.9
+  },
+  {
+    "product_id": "phone_1",
+    "product_title": "Smartphone A1",
+    "product_image": "https://i.ibb.co.com/1r80bhy/16316711.jpg",
+    "category": "Phones",
+    "price": 700,
+    "description": "High-resolution smartphone with cutting-edge technology.",
+    "specification": ["6GB RAM", "128GB Storage", "Quad Camera"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "phone_2",
+    "product_title": "Budget Smartphone B2",
+    "product_image": "https://i.ibb.co.com/1r80bhy/16316711.jpg",
+    "category": "Phones",
+    "price": 300,
+    "description": "Affordable smartphone with all essential features.",
+    "specification": ["4GB RAM", "64GB Storage", "Dual Camera"],
+    "availability": true,
+    "rating": 3.8
+  },
+  {
+    "product_id": "phone_3",
+    "product_title": "Premium Smartphone P1",
+    "product_image": "https://i.ibb.co.com/1r80bhy/16316711.jpg",
+    "category": "Phones",
+    "price": 950,
+    "description": "Premium smartphone with best-in-class performance.",
+    "specification": ["12GB RAM", "256GB Storage", "5G Enabled"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "watch_1",
+    "product_title": "Smart Watch Series X",
+    "product_image": "https://i.ibb.co.com/3C9dKcj/Smart-Watches.jpg",
+    "category": "Smart Watches",
+    "price": 250,
+    "description": "Feature-rich smartwatch with health tracking capabilities.",
+    "specification": ["Heart Rate Monitor", "GPS", "Water Resistant"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "watch_2",
+    "product_title": "Fitness Tracker Pro",
+    "product_image": "https://i.ibb.co.com/3C9dKcj/Smart-Watches.jpg",
+    "category": "Smart Watches",
+    "price": 150,
+    "description": "Advanced fitness tracker for active lifestyles.",
+    "specification": ["Step Counter", "Calorie Tracker", "Sleep Monitor"],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": "watch_3",
+    "product_title": "Luxury Smart Watch L1",
+    "product_image": "https://i.ibb.co.com/3C9dKcj/Smart-Watches.jpg",
+    "category": "Smart Watches",
+    "price": 400,
+    "description": "Luxury smartwatch with elegant design and premium features.",
+    "specification": ["Sapphire Glass", "Luxury Straps", "Heart Monitor"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "charger_1",
+    "product_title": "Fast Charger 20W",
+    "product_image": "https://i.ibb.co.com/FKWW03p/Chargers.jpg",
+    "category": "Chargers",
+    "price": 60,
+    "description": "20W fast charger compatible with all devices.",
+    "specification": ["20W Output", "USB-C", "Overcharge Protection"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "charger_2",
+    "product_title": "Wireless Charger Stand",
+    "product_image": "https://i.ibb.co.com/FKWW03p/Chargers.jpg",
+    "category": "Chargers",
+    "price": 80,
+    "description": "Wireless charger with sleek stand design.",
+    "specification": ["10W Wireless", "Overheat Protection", "LED Indicator"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "charger_3",
+    "product_title": "Portable Power Bank 10,000mAh",
+    "product_image": "https://i.ibb.co.com/FKWW03p/Chargers.jpg",
+    "category": "Chargers",
+    "price": 100,
+    "description": "10,000mAh portable power bank with dual USB ports.",
+    "specification": ["10,000mAh Capacity", "Dual USB Output", "Fast Charging"],
+    "availability": true,
+    "rating": 4.4
+  }
+]
